@@ -1,5 +1,5 @@
 ---
 title: Bring your shop online with NeedsMart apps
 image: ./assets/banner-image.png
-description: Set up your shop and serve exclusively to your customers
+description: Set up your shop and serve exclusively to your customers.
 ---
